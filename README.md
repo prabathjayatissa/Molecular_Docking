@@ -1,5 +1,6 @@
-# Molecular_Docking
+
 # Molecular Docking Practical Guide
+
 ## Beginner-Level Practical for Bachelor Students
 
 ---
@@ -102,7 +103,7 @@ Molecular docking is a computational method used to predict how a ligand binds t
 3. Observe:
    - Protein chains
    - Bound ligand
-   - Zinc ion in active site
+   - Zinc ion in the active site
 
 ---
 
@@ -135,7 +136,7 @@ protein_clean.pdb
 
 ## Step 4: Ligand Preparation
 
-1. Open original structure again
+1. Open the original structure again
 2. Select ligand:
 
 ```python
@@ -165,7 +166,7 @@ ligand.pdb
 
 1. Open Vina Wizard
 2. Center grid around original ligand binding site
-3. Adjust grid box to fully cover active site
+3. Adjust the grid box to fully cover the active site
 
 ---
 
