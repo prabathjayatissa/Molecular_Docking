@@ -1,7 +1,7 @@
 
 # Molecular Docking Practical Guide
 
-## Beginner-Level Practical for Bachelor Students
+## Beginner-Level Practical Guide for Master's Students
 
 ---
 
