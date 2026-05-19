@@ -40,6 +40,7 @@ Students will learn how to:
 | 4 | Estrogen Receptor Alpha | 4-Hydroxytamoxifen | 3ERT |
 
 ---
+### Protein Search https://www.rcsb.org/
 ### PubChem Search https://pubchem.ncbi.nlm.nih.gov/
 
 # Theory
