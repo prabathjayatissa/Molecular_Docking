@@ -1,5 +1,5 @@
 
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/c11f313a-851d-4b71-9ca9-1038961863bc" />
+<img width="550" height="366" alt="image" src="https://github.com/user-attachments/assets/c11f313a-851d-4b71-9ca9-1038961863bc" />
 
 # Molecular Docking Practical Guide
 
