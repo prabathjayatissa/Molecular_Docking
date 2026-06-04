@@ -288,7 +288,7 @@ Students should obtain:
 - Docking scores
 - Predicted ligand poses
 - Interaction profiles
-- Hydrogen bonding patterns
+- Hydrogen bonding patterns 
 
 ---
 
