@@ -3,7 +3,7 @@
 
 # Molecular Docking Practical Guide
 
-## Beginner-Level Practical Guide for Master's Students
+## Beginner-Level Practical Guide for University Students
 
 ---
 
