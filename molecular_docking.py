@@ -1,11 +1,10 @@
 """
-Molecular Docking Python Script
-A beginner-level guide to molecular docking for bachelor students
+Molecular Docking Python Script - A beginner-level guide to molecular docking for University students
 
 This script provides tools for:
 - Downloading protein structures from the Protein Data Bank (PDB)
 - Preparing proteins and ligands for docking
-- Analyzing docking results
+- Analysing docking results
 - Interpreting binding scores
 """
 
